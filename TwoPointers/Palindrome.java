@@ -1,5 +1,5 @@
 
-public class TwoPointers {
+public class Palindrome {
   public static boolean isPalindrome(String s) {
 
     int length = s.length();
